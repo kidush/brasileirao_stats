@@ -5,3 +5,13 @@ authors:
   - Thiago F. Lins <thiago.evandson@gmail.com>
 
 license: MIT
+
+dependencies:
+  commander:
+    github: mrrooijen/commander
+    version: ~> 0.3.3
+
+development_dependencies:
+  webmock:
+    github: manastech/webmock.cr
+    branch: master

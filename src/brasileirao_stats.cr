@@ -1,5 +1,7 @@
 require "./brasileirao_stats/*"
+require "http/client"
+require "xml"
 
 module BrasileiraoStats
-  # TODO Put your code here
 end
+
